@@ -1,0 +1,1 @@
+"""Storefront invoice example package."""
